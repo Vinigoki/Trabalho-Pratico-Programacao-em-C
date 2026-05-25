@@ -1,2 +1,2 @@
-# Trabalho-Pr-tico-Programa-o-em-C
-Trabalho Prático – Programação em C Disciplina: Linguagem de Programação em C
+# Trabalho-Pratico-Programa-o-em-C
+
