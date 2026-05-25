@@ -1,2 +1,2 @@
-# Trabalho-Pratico-Programa-o-em-C
+# Trabalho-Pratico-Programacao-em-C
 
