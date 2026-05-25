@@ -44,10 +44,3 @@ Repositório contendo os exercícios da disciplina de Programação em C.
 
 ---
 
-# Como executar
-
-Compile usando GCC:
-
-```bash
-gcc questao1.c -o questao1
-./questao1
