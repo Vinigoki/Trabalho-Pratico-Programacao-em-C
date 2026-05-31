@@ -1,3 +1,9 @@
+//Crie um programa que leia:
+//Nome;
+//Idade;
+//Cidade;
+//Depois exiba todas as informações.
+
 #include <stdio.h> // Inclui a biblioteca padrão para comandos de entrada e saída (printf e scanf)
 
 int main() {
