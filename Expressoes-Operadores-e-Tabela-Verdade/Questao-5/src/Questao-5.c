@@ -2,6 +2,7 @@
 // Média maior ou igual a 7;
 // Frequência maior ou igual a 75%.
 
+//----------------------------------------------------------------------------//
 #include <stdio.h>
 
 int main() {
